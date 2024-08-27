@@ -6,7 +6,7 @@
   <link href="http://github.com/Cuty-pink/Cuty-pink.github.io/atom.xml" rel="self"/>
   
   <link href="http://github.com/Cuty-pink/Cuty-pink.github.io/"/>
-  <updated>2024-08-22T12:43:32.617Z</updated>
+  <updated>2024-08-27T08:23:43.659Z</updated>
   <id>http://github.com/Cuty-pink/Cuty-pink.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://github.com/Cuty-pink/Cuty-pink.github.io/2024/08/22/post/"/>
     <id>http://github.com/Cuty-pink/Cuty-pink.github.io/2024/08/22/post/</id>
     <published>2024-08-22T08:54:19.000Z</published>
-    <updated>2024-08-22T12:43:32.617Z</updated>
+    <updated>2024-08-27T08:23:43.659Z</updated>
     
     
       
@@ -36,14 +36,16 @@
     
     
     
+    <category term="programm" scheme="http://github.com/Cuty-pink/Cuty-pink.github.io/tags/programm/"/>
+    
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://github.com/Cuty-pink/Cuty-pink.github.io/2024/07/29/hello-world/"/>
-    <id>http://github.com/Cuty-pink/Cuty-pink.github.io/2024/07/29/hello-world/</id>
-    <published>2024-07-29T07:02:36.963Z</published>
-    <updated>2024-07-29T07:02:36.963Z</updated>
+    <title>Hello world</title>
+    <link href="http://github.com/Cuty-pink/Cuty-pink.github.io/2024/08/17/hello-world/"/>
+    <id>http://github.com/Cuty-pink/Cuty-pink.github.io/2024/08/17/hello-world/</id>
+    <published>2024-08-17T08:54:19.000Z</published>
+    <updated>2024-08-27T03:15:19.118Z</updated>
     
     
       
@@ -56,6 +58,8 @@
     
     
     
+    
+    <category term="test" scheme="http://github.com/Cuty-pink/Cuty-pink.github.io/tags/test/"/>
     
   </entry>
   
