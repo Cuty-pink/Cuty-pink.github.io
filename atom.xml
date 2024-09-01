@@ -6,7 +6,7 @@
   <link href="http://github.com/Cuty-pink/Cuty-pink.github.io/atom.xml" rel="self"/>
   
   <link href="http://github.com/Cuty-pink/Cuty-pink.github.io/"/>
-  <updated>2024-08-27T08:23:43.659Z</updated>
+  <updated>2024-09-01T13:05:04.313Z</updated>
   <id>http://github.com/Cuty-pink/Cuty-pink.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C与C++各输入函数用法：cin, cin.getlin(), getlin(), gets(), fgets(), gets_s()</title>
+    <link href="http://github.com/Cuty-pink/Cuty-pink.github.io/2024/09/01/post2/"/>
+    <id>http://github.com/Cuty-pink/Cuty-pink.github.io/2024/09/01/post2/</id>
+    <published>2024-09-01T10:54:19.000Z</published>
+    <updated>2024-09-01T13:05:04.313Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;主要内容：&quot;&gt;&lt;a href=&quot;#主要内容：&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="programm" scheme="http://github.com/Cuty-pink/Cuty-pink.github.io/tags/programm/"/>
+    
+  </entry>
   
   <entry>
     <title>leetcode 76 最小覆盖字串</title>
