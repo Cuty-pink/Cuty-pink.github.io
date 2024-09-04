@@ -6,7 +6,7 @@
   <link href="http://github.com/Cuty-pink/Cuty-pink.github.io/atom.xml" rel="self"/>
   
   <link href="http://github.com/Cuty-pink/Cuty-pink.github.io/"/>
-  <updated>2024-09-01T13:05:04.313Z</updated>
+  <updated>2024-09-04T11:14:43.403Z</updated>
   <id>http://github.com/Cuty-pink/Cuty-pink.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>KMF算法</title>
+    <link href="http://github.com/Cuty-pink/Cuty-pink.github.io/2024/09/03/post3/"/>
+    <id>http://github.com/Cuty-pink/Cuty-pink.github.io/2024/09/03/post3/</id>
+    <published>2024-09-03T10:00:00.000Z</published>
+    <updated>2024-09-04T11:14:43.403Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;描述&quot;&gt;&lt;a href=&quot;#描述&quot; class=&quot;headerlink&quot; title=&quot;描述&quot;&gt;&lt;/a&gt;描述&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;给定一个 haystack 字符串和一个 needle 字符串，在 haystack 字符串中找出 needle</summary>
+        
+      
+    
+    
+    
+    
+    <category term="programm" scheme="http://github.com/Cuty-pink/Cuty-pink.github.io/tags/programm/"/>
+    
+  </entry>
   
   <entry>
     <title>C与C++各输入函数用法：cin, cin.getlin(), getlin(), gets(), fgets(), gets_s()</title>
